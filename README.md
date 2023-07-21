@@ -1,1 +1,1 @@
-
+A practice project for UI design in Flutter There are 4 screens and a bottom navigation bar to surf between 4 screens. Purpose of the project was to practice reuseable widgets, frontend design and remembering basic concepts of Flutter.
